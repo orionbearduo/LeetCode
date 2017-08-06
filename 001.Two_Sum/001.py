@@ -3,6 +3,7 @@
 Created on Sat Jul 29 01:18:54 2017
 
 @author: ichita
+Using Hashing(python dictionary)
 """
 
 class Solution(object):
